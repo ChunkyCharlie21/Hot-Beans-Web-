@@ -157,32 +157,8 @@ h7{
   text-align: center;
   padding-top: 20px;
 }
-
-.image2{
-  width: 180px;
-  height: 160px;
-  float: left;
-}
-
-h8{
-  background-color: #212121;
-  text-align: center;
-  padding-top: 20px;
-
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-footer{
-  text-align: center;
-  background-color: lightgrey;
-  padding: 20px;
-  color: black;
-
-
-}
+.image2{width: 180px;height: 160px;float: left;}
+h8{background-color: #212121;text-align: center;padding-top: 20px;}
+.center {display: block;margin-left: auto;margin-right: auto;width: 50%;}
+footer{text-align: center;background-color: lightgrey;padding: 20px;color: black;}
+.links{text-align:center;}
